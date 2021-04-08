@@ -5,7 +5,10 @@ let c = a + b
 // Fix print c result
 console.log('Sum result: ', c)
 
-//
+//Subtraction function
+//-----
+let c = a - b
+//------
 console.log('Second Commit')
 
 let func = () => {
