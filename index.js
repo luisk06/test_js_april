@@ -20,3 +20,9 @@ console.log(param1)
 let func = () => {
  console.log('inside the function') 
 }
+
+// third branch content
+let server = {
+    serverId: 'ABC123',
+    host: 'manual.qrvey.com'
+}
